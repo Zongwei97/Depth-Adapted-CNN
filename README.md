@@ -1,3 +1,3 @@
 # Depth-Adapted-CNN
 
-Code will be released soon
+Demo of Depth-Adapted CNN for RGB-D Cameras (ACCV20)
