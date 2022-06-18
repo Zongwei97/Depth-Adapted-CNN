@@ -1,6 +1,6 @@
 # Depth-Adapted-CNN
 
-Demo of Depth-Adapted CNN for RGB-D Cameras (ACCV2020 Oral)
+Demo of [Depth-Adapted CNN for RGB-D Cameras](https://openaccess.thecvf.com/content/ACCV2020/papers/Wu_Depth-Adapted_CNN_for_RGB-D_cameras_ACCV_2020_paper.pdf) (ACCV2020 Oral)
 
 [aCNN.py](https://github.com/Zongwei97/Depth-Adapted-CNN/blob/main/aCNN.py) contains the basic functions for computing depth adapted sampling position.
 
