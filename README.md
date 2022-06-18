@@ -6,6 +6,8 @@ Demo of [Depth-Adapted CNN for RGB-D Cameras](https://openaccess.thecvf.com/cont
 
 [model.py](https://github.com/Zongwei97/Depth-Adapted-CNN/blob/main/model.py) shows a VGG-16 adapted to depth.
 
+# Extensive comparison
+
 We also propose an extention of our conferece paper which is available here: 
 
 [Depth-Adapted CNNs for RGB-D Semantic Segmentation](https://arxiv.org/abs/2206.03939)
@@ -16,4 +18,6 @@ We show that our approach can achieve better performance when all methods are un
 
 The source code will be released soon.
 
-We also show that depth offset can be useful for other segmentation task such as [salient object dectection](https://arxiv.org/pdf/2110.04904.pdf).
+# Other application
+
+We show that depth offset can be useful for other segmentation task such as [salient object dectection](https://arxiv.org/pdf/2110.04904.pdf).
