@@ -21,3 +21,23 @@ The source code will be released soon.
 # Other application
 
 We show that depth offset can be useful for other segmentation task such as [salient object dectection](https://arxiv.org/pdf/2110.04904.pdf).
+
+# Citation
+If you find this repo useful, please consider citing:
+
+```
+@inproceedings{wu2020depth,
+  title={Depth-adapted CNN for RGB-D cameras},
+  author={Wu, Zongwei and Allibert, Guillaume and Stolz, Christophe and Demonceaux, C{\'e}dric},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  year={2020}
+}
+
+@article{wu2022depth,
+  title={Depth-Adapted CNNs for RGB-D Semantic Segmentation},
+  author={Wu, Zongwei and Allibert, Guillaume and Stolz, Christophe and Ma, Chao and Demonceaux, C{\'e}dric},
+  journal={arXiv preprint arXiv:2206.03939},
+  year={2022}
+}
+
+```
